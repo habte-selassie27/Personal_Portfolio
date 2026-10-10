@@ -1,0 +1,16 @@
+export const CERTIFICATES = [
+  { img: '/images/certifications/Accenture UK_completion_certificate-1.png', title: 'Accenture' },
+  { img: '/images/certifications/Citi_ICG_Technology_completion_certificate-1.png', title: 'Citi ICG Technology' },
+  { img: '/images/certifications/Hewlett Packard Enterprise__completion_certificate-1.png', title: 'Hewlett Packard Enterprise' },
+  { img: '/images/certifications/Lyft_Job_Simulation_completion_certificate-1.png', title: 'Lyft' },
+  { img: '/images/certifications/glcss.png', title: 'Front End Development(CSS)' },
+  { img: '/images/certifications/html-css.png', title: 'The Complete HTML and CSS Course' },
+  { img: '/images/certifications/Bootstrap.png', title: 'Bootstrap 5 Essentials' },
+  { img: '/images/certifications/JavaScript.png', title: 'The Complete JavaScript Course' },
+  { img: '/images/certifications/nodejs.png', title: 'Build a Back End RESTful API' },
+  { img: '/images/certifications/blog-1.png', title: 'MERN Stack with Blog Project' },
+  { img: '/images/certifications/glcss.png', title: 'Front End Development(HTML)' },
+  { img: '/images/certifications/Ecommerce-1.png', title: 'Build A Best E-Commerce App' },
+  { img: '/images/certifications/jobermann.png', title: 'Jobberman Soft-Skills Training' },
+  { img: '/images/certifications/youth.png', title: 'YLC LEADERSHIP & ENTREPRENEURSHIP SUMMIT 2021' },
+];
