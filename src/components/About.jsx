@@ -90,11 +90,11 @@ export default function About() {
                         {/*Header Content*/}
                         <g transform="translate(170 118)" fill="#34bfff" fontWeight="bold">
                             <text x="0" y="0" fontSize="12" className="about-header-upper-text">Name :</text>
-                            <text x="0" y="20" fontSize="18" className="about-header-lower-text">Yash</text>
+                            <text x="0" y="20" fontSize="18" className="about-header-lower-text">Habte Selassie</text>
                             <text x="110" y="0" fontSize="12" className="about-header-upper-text">Age :</text>
-                            <text x="110" y="20" fontSize="18" className="about-header-lower-text">20</text>
+                            <text x="110" y="20" fontSize="18" className="about-header-lower-text">24</text>
                             <text x="200" y="0" fontSize="12" className="about-header-upper-text">From :</text>
-                            <text x="200" y="20" fontSize="18" className="about-header-lower-text">India</text>
+                            <text x="200" y="20" fontSize="18" className="about-header-lower-text">Ethiopia</text>
                         </g>
                     </g>
 
@@ -169,8 +169,8 @@ export default function About() {
                             <image mask="url(#about-pixel-mask-0)" className="about-pixel-image" height="64" width="64" href="/icons/baby-pixel.png" x="6" y="7" />
 
                             {/*First Text*/}
-                            <text x="88" y="33" className="about-text">I'm Creative Director and UI/UX Designer from morbi</text>
-                            <text x="88" y="50" className="about-text">gujrat, working in web development and web designing.</text>
+                            <text x="88" y="33" className="about-text">I'm a full-stack and Web3 developer from Addis</text>
+                            <text x="88" y="50" className="about-text">Ababa, building products end to end.</text>
                         </g>
 
                         {/*Second Content*/}
@@ -186,8 +186,8 @@ export default function About() {
                             <g id="about-icon-1" transform="translate(417 5) scale(0.8)"></g>
 
                             {/*Second Text*/}
-                            <text x="5" y="33" className="about-text">{"   I enjoy turning complex problems into simple, beautiful   "}</text>
-                            <text x="5" y="50" className="about-text">{"  and intuitive designs. "}</text>
+                            <text x="5" y="33" className="about-text">I turn complex problems into simple, working</text>
+                            <text x="5" y="50" className="about-text">software, from smart contracts to the UI.</text>
                             {/* <text x="55" y="70" className="about-text"> platform and more...</text> */}
                         </g>
 
@@ -204,8 +204,8 @@ export default function About() {
                             <image mask="url(#about-pixel-mask-2)" className="about-pixel-image" height="64" width="64" href="/icons/rocket-pixel.png" x="6" y="7" />
 
                             {/*Third Text*/}
-                            <text x="88" y="33" className="about-text">Now, after professional coaching, Yash is looking for</text>
-                            <text x="88" y="50" className="about-text">new challenges to work as a web {"&"} app developer</text>
+                            <text x="88" y="33" className="about-text">I'm looking for teams and projects where I can</text>
+                            <text x="88" y="50" className="about-text">ship real products.</text>
                         </g>
                     </g>
 
