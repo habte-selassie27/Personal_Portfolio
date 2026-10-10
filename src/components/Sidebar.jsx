@@ -105,7 +105,7 @@ export default function Sidebar() {
         })}
         <li className="sidebar-divider" aria-hidden="true"></li>
         <li>
-          <a className="nav-link" href="/images/cvs/CV.pdf" target="_blank" rel="noreferrer">
+          <a className="nav-link" href="https://drive.google.com/file/d/1rnIqO2Xclv2OZwf3jn2hD_2OnApxfgi2/view?usp=sharing" target="_blank" rel="noreferrer">
             <i className="fas fa-folder-open" aria-hidden="true"></i>
             <span>Resume</span>
           </a>

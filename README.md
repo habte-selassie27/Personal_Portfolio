@@ -5,8 +5,8 @@ A visually immersive and interactive **personal portfolio website frontend**, de
 ---
 
 ## 🔗 Links
-- 🌐 **Live Demo:** [your-live-demo-url.com](https://yash-chauhan.vercel.app)]
-- 👨‍💻 **Author's Portfolio:** [yash-chauhan.vercel.app](https://yash-chauhan.vercel.app )
+- 🌐 **Live Demo:** [https://habte-selassie.vercel.app](https://habte-selassie.vercel.app)
+- 👨‍💻 **Author's Portfolio:** [https://habte-selassie.vercel.app](https://habte-selassie.vercel.app)
 
 ---
 
@@ -39,8 +39,8 @@ Please note that the 3D models used in this project were **purchased from a thir
 ---
 
 ## 👨‍💻 Author
-**Yash Chauhan**
-- GitHub: [@yashchauhan008](https://github.com/Yashchauhan008 )
-- LinkedIn: [yashchauhan](https://www.linkedin.com/in/yashchauhan008 )
+**Habte Selassie Fitsum**
+- GitHub: [@habte-selassie27](https://github.com/habte-selassie27)
+- LinkedIn: [habte-selassie-fitsum](https://www.linkedin.com/in/habte-selassie-fitsum-0059b93b2/)
 
 ---

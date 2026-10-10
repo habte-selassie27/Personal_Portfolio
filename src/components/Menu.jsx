@@ -35,7 +35,7 @@ export default function Menu() {
                         ))}
                         <a
                             className="menu-item"
-                            href="/images/cvs/CV.pdf"
+                            href="https://drive.google.com/file/d/1rnIqO2Xclv2OZwf3jn2hD_2OnApxfgi2/view?usp=sharing"
                             target="_blank"
                             rel="noreferrer"
                             style={{ order: 10 }}
@@ -48,19 +48,19 @@ export default function Menu() {
                 <div id="menu-social-container" className="row">
                     {/* <a tabindex="-1" target="_blank" href="https://discord.gg/P9QvEeAm"><img className="social-icon"
                             src="./images/discord.png" alt="discord Menu Icon" height="28" width="28"></img></a> */}
-                    <a tabIndex="-1" target="_blank" href="https://github.com/yashchauhan008">
+                    <a tabIndex="-1" target="_blank" href="https://github.com/habte-selassie27">
                         <i className="fab fa-github social-icon"></i>
                     </a>
 
-                    <a tabIndex="-1" href="mailto:yashchauhan1775@gmail.com">
+                    <a tabIndex="-1" href="mailto:habteselassie26@gmail.com">
                         <i className="fas fa-envelope social-icon"></i>
                     </a>
 
-                    <a tabIndex="-1" target="_blank" href="https://www.instagram.com/yash_chauhan________">
-                        <i className="fab fa-instagram social-icon"></i>
+                    <a tabIndex="-1" target="_blank" href="https://x.com/Israel008640370">
+                        <i className="fab fa-twitter social-icon"></i>
                     </a>
 
-                    <a tabIndex="-1" target="_blank" href="https://www.linkedin.com/in/yash-chauhan-842162321">
+                    <a tabIndex="-1" target="_blank" href="https://www.linkedin.com/in/habte-selassie-fitsum-0059b93b2/">
                         <i className="fab fa-linkedin social-icon"></i>
                     </a>
                 </div>
